@@ -1,0 +1,7 @@
+@media (min-width: 560px) {
+    .SelectedImage {
+        height: min-content(10px - 30px);
+        width: min-width(60% - 70%);
+    }
+}
+

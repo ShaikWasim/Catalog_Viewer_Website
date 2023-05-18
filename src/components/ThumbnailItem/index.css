@@ -1,0 +1,31 @@
+.thumbnail-list-item {
+    margin-bottom: 16px;
+}
+
+.thumbnail-button {
+    background: transparent;
+    border: none;
+    outline: none;
+    cursor: pointer;
+}
+
+.thumbnail {
+    width: 100px;
+    height: 100px;
+}
+
+.abc {
+    opacity: 1;
+    width: 100px;
+    height: 100px;
+}
+
+.thumbnailClassName {
+    height: 50px;
+    cursor: pointer;
+}
+
+.thumbnailClassName {
+    width: 100px;
+    height: 300px;
+}
